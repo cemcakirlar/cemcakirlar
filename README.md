@@ -64,12 +64,12 @@ I build games, macOS utilities, agent skills, and the odd VS Code extension. Cur
 <p align="center">
   <img
     alt="GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=cemcakirlar&show_icons=true&theme=default&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=cemcakirlar&show_icons=true&theme=transparent&hide_border=true&count_private=true"
   />
   <br />
   <img
     alt="Top languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemcakirlar&layout=compact&theme=default&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemcakirlar&layout=compact&theme=transparent&hide_border=true&langs_count=8"
   />
 </p>
 
